@@ -1,0 +1,9 @@
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\obj\x86\Debug\OppoCraft.Properties.Resources.resources
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\bin\Debug\OppoCraft.exe
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\bin\Debug\OppoCraft.pdb
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\obj\x86\Debug\OppoCraft.exe
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\obj\x86\Debug\OppoCraft.pdb
+C:\Users\Freens77\Documents\MyProjects\OppoCraft\OppoCraft\obj\x86\Debug\OppoCraft.Game.resources
